@@ -170,7 +170,7 @@ The National Hockey League has many teams. Each team has a name, a city, a coach
 
 # Project 4: Freelancing Platform ("My Project")
 
-![My Project ERD: Freelancing Platform](./images/my_project.jpg)
+![My Project ERD: Freelancing Platform](./images/my_project.png)
 
 ## 4.1 Business Scenario and Problem Statement
 *(Reverse-engineered from the ERD.)*
